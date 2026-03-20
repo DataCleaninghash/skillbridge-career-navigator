@@ -1,5 +1,7 @@
 # SkillBridge — Career Navigator
 
+> **Demo Video:** [https://www.youtube.com/watch?v=f6B2eYFtGoM](https://www.youtube.com/watch?v=f6B2eYFtGoM)
+
 An intelligent career gap analysis tool that parses resumes, maps skills against job requirements, and builds actionable learning paths. Focused on cybersecurity and tech roles with Palo Alto Networks coverage.
 
 ---
