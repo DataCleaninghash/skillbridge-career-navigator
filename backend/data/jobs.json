@@ -1,0 +1,4857 @@
+[
+  {
+    "id": 111,
+    "title": "Machine Learning Engineer",
+    "company": "DeepMind Research Labs",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Design, train, and deploy ML models for production systems. Work on NLP and computer vision pipelines. Collaborate with research scientists to bring prototypes to production. Strong Python and deep learning framework experience required.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "Docker",
+      "REST API",
+      "Git",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "CNNs",
+      "RNNs"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "MLflow",
+      "AWS SageMaker",
+      "Spark"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "data_science": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-Learn",
+        "NumPy",
+        "Pandas",
+        "CNNs",
+        "RNNs"
+      ],
+      "devops": [
+        "Docker",
+        "Git",
+        "REST API"
+      ]
+    },
+    "salary_range": {
+      "min": 72000,
+      "max": 114000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 112,
+    "title": "NLP Research Engineer",
+    "company": "Anthropic",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Build and fine-tune large language models for various NLP tasks. Design evaluation frameworks, implement RAG pipelines, and work on prompt engineering strategies. Research and develop novel approaches to language understanding and generation.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "Hugging Face",
+      "RAG",
+      "Prompt Engineering",
+      "LangChain",
+      "Git",
+      "NumPy",
+      "Fine-tuning",
+      "Docker",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "BERT",
+      "GPT",
+      "T5",
+      "Distributed Training",
+      "RLHF"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "data_science": [
+        "PyTorch",
+        "Transformers",
+        "Hugging Face",
+        "NumPy",
+        "Fine-tuning",
+        "RAG",
+        "Prompt Engineering",
+        "LangChain"
+      ],
+      "devops": [
+        "Docker",
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 72000,
+      "max": 114000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 113,
+    "title": "Computer Vision Engineer",
+    "company": "Tesla Autopilot",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Develop real-time computer vision systems for autonomous driving. Train and optimize object detection models, implement image segmentation pipelines, and work with multi-camera sensor fusion. Experience with YOLO and real-time inference required.",
+    "required_skills": [
+      "Python",
+      "OpenCV",
+      "YOLO",
+      "PyTorch",
+      "TensorFlow",
+      "CNNs",
+      "Docker",
+      "Git",
+      "NumPy",
+      "C/C++",
+      "CUDA",
+      "TensorRT"
+    ],
+    "preferred_skills": [
+      "ROS",
+      "LiDAR Processing",
+      "Depth Estimation",
+      "Edge Computing"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "C/C++"
+      ],
+      "data_science": [
+        "PyTorch",
+        "TensorFlow",
+        "OpenCV",
+        "YOLO",
+        "CNNs",
+        "NumPy"
+      ],
+      "devops": [
+        "Docker",
+        "Git",
+        "CUDA",
+        "TensorRT"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 114,
+    "title": "Applied AI Scientist",
+    "company": "Google DeepMind",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Conduct applied research in machine learning and AI. Develop novel model architectures, run experiments at scale, and publish results. Work on multimodal learning, combining vision and language models for next-generation AI systems.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "CNNs",
+      "GANs",
+      "NumPy",
+      "Git",
+      "LaTeX",
+      "Scikit-Learn",
+      "Pandas",
+      "SQL",
+      "Hugging Face"
+    ],
+    "preferred_skills": [
+      "JAX",
+      "TPU Training",
+      "Diffusion Models",
+      "Reinforcement Learning"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "data_science": [
+        "PyTorch",
+        "Transformers",
+        "CNNs",
+        "GANs",
+        "Scikit-Learn",
+        "NumPy",
+        "Pandas",
+        "Hugging Face",
+        "LaTeX"
+      ]
+    },
+    "salary_range": {
+      "min": 72000,
+      "max": 114000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 115,
+    "title": "LLM Platform Engineer",
+    "company": "OpenAI",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Build and maintain the platform infrastructure for training and serving large language models. Develop fine-tuning pipelines, implement evaluation benchmarks, and create tooling for prompt engineering and AI agent development.",
+    "required_skills": [
+      "Python",
+      "LangChain",
+      "RAG",
+      "Prompt Engineering",
+      "Docker",
+      "REST API",
+      "Git",
+      "PyTorch",
+      "Hugging Face",
+      "Fine-tuning",
+      "MongoDB",
+      "GCP"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Redis",
+      "gRPC",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python"
+      ],
+      "data_science": [
+        "PyTorch",
+        "LangChain",
+        "RAG",
+        "Prompt Engineering",
+        "Hugging Face",
+        "Fine-tuning"
+      ],
+      "devops": [
+        "Docker",
+        "GCP",
+        "Git",
+        "REST API"
+      ],
+      "databases": [
+        "MongoDB"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 116,
+    "title": "Data Scientist \u2014 Pricing & Strategy",
+    "company": "Uber",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Drive data-informed pricing decisions through quantitative analysis, statistical modeling, and machine learning. Build forecasting models, analyze marketplace dynamics, and develop pricing optimization frameworks for ride-hailing products.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "TensorFlow",
+      "Git",
+      "Docker",
+      "LSTMs",
+      "Data Visualization",
+      "Statistics",
+      "A/B Testing"
+    ],
+    "preferred_skills": [
+      "Spark",
+      "Airflow",
+      "Tableau",
+      "Bayesian Methods"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "data_science": [
+        "Pandas",
+        "NumPy",
+        "Scikit-Learn",
+        "TensorFlow",
+        "LSTMs",
+        "Statistics"
+      ],
+      "devops": [
+        "Docker",
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 72000,
+      "max": 114000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 117,
+    "title": "AI/ML Software Engineer",
+    "company": "Microsoft Research",
+    "industry": "software_engineering",
+    "experience_level": "entry",
+    "description": "Build production ML systems integrating NLP, computer vision, and multimodal AI. Design APIs for model serving, implement CI/CD for ML pipelines, and develop tools for AI-assisted software development. Strong coding and ML fundamentals required.",
+    "required_skills": [
+      "Python",
+      "C/C++",
+      "PyTorch",
+      "REST API",
+      "Docker",
+      "Git",
+      "SQL",
+      "OpenCV",
+      "Transformers",
+      "Hugging Face",
+      "MongoDB",
+      "GCP"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Azure",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "C/C++",
+        "SQL"
+      ],
+      "data_science": [
+        "PyTorch",
+        "OpenCV",
+        "Transformers",
+        "Hugging Face"
+      ],
+      "devops": [
+        "Docker",
+        "GCP",
+        "Git",
+        "REST API"
+      ],
+      "databases": [
+        "MongoDB"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 118,
+    "title": "Research Engineer \u2014 Multimodal AI",
+    "company": "Meta FAIR",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Develop multimodal AI systems combining vision and language understanding. Work on CLIP-style architectures, visual question answering, and cross-modal retrieval. Implement research prototypes and scale them for deployment.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "OpenCV",
+      "CNNs",
+      "Git",
+      "NumPy",
+      "Docker",
+      "Hugging Face",
+      "GANs",
+      "Diffusion Models",
+      "LaTeX"
+    ],
+    "preferred_skills": [
+      "ONNX",
+      "Triton",
+      "Distributed Training",
+      "Video Understanding"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python"
+      ],
+      "data_science": [
+        "PyTorch",
+        "Transformers",
+        "OpenCV",
+        "CNNs",
+        "GANs",
+        "Diffusion Models",
+        "NumPy",
+        "Hugging Face",
+        "LaTeX"
+      ],
+      "devops": [
+        "Docker",
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 69000,
+      "max": 109249,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 1,
+    "title": "SOC Analyst",
+    "company": "CyberDefend Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Monitor security events and alerts using SIEM platforms. Investigate potential security incidents, perform initial triage, and escalate as needed. Maintain documentation of incidents and contribute to playbook development.",
+    "required_skills": [
+      "SIEM",
+      "Network Security",
+      "Incident Response",
+      "TCP/IP",
+      "Log Analysis"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Splunk",
+      "Linux",
+      "Wireshark"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "Wireshark",
+        "CrowdStrike Falcon"
+      ],
+      "networking": [
+        "TCP/IP",
+        "DNS",
+        "Firewall Management"
+      ],
+      "operating_systems": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Palo Alto Firewall Engineer",
+    "company": "Palo Alto Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Configure, manage, and troubleshoot Palo Alto next-generation firewalls across enterprise environments. Implement security policies, NAT rules, and VPN configurations. Work with Panorama for centralized management and WildFire for threat analysis.",
+    "required_skills": [
+      "Palo Alto NGFW",
+      "Palo Alto Panorama",
+      "Network Security",
+      "VPN",
+      "IPSec"
+    ],
+    "preferred_skills": [
+      "Palo Alto Cortex XDR",
+      "Palo Alto WildFire",
+      "Python",
+      "Ansible"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto NGFW",
+        "Palo Alto Panorama",
+        "Palo Alto WildFire"
+      ],
+      "networking": [
+        "TCP/IP",
+        "VPN",
+        "IPSec",
+        "NAT",
+        "VLAN"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 3,
+    "title": "PCNSE Certified Network Engineer",
+    "company": "SecureNet Solutions",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Lead the design and deployment of Palo Alto Networks security infrastructure across multi-site environments. Architect next-generation firewall solutions, implement zero trust network access, and mentor junior engineers. PCNSE certification required.",
+    "required_skills": [
+      "Palo Alto NGFW",
+      "Palo Alto Panorama",
+      "Network Architecture",
+      "Zero Trust Networking",
+      "SD-WAN"
+    ],
+    "preferred_skills": [
+      "Palo Alto Prisma Access",
+      "Palo Alto Cortex XSOAR",
+      "Terraform",
+      "BGP"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto NGFW",
+        "Palo Alto Panorama",
+        "Palo Alto Prisma Access",
+        "Palo Alto Cortex XSOAR"
+      ],
+      "networking": [
+        "BGP",
+        "OSPF",
+        "SD-WAN",
+        "Zero Trust Networking",
+        "Network Architecture"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Penetration Tester",
+    "company": "RedTeam Security",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Conduct authorized penetration testing engagements against client networks, web applications, and infrastructure. Identify vulnerabilities, exploit weaknesses, and produce detailed reports with remediation recommendations.",
+    "required_skills": [
+      "Burp Suite",
+      "Metasploit",
+      "Nmap",
+      "Kali Linux",
+      "OWASP ZAP"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Cobalt Strike",
+      "BloodHound",
+      "Mimikatz",
+      "Go"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Burp Suite",
+        "Metasploit",
+        "Nmap",
+        "Kali Linux",
+        "OWASP ZAP",
+        "Cobalt Strike"
+      ],
+      "programming": [
+        "Python",
+        "Bash",
+        "PowerShell"
+      ]
+    },
+    "salary_range": {
+      "min": 104500,
+      "max": 154000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Threat Intelligence Analyst",
+    "company": "ThreatWatch Global",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Collect, analyze, and disseminate threat intelligence from multiple sources. Track APT groups, develop IOCs, and produce intelligence reports. Integrate threat feeds into security operations workflows.",
+    "required_skills": [
+      "MISP",
+      "Threat Intelligence",
+      "YARA",
+      "Sigma",
+      "Incident Response"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Recorded Future",
+      "OpenCTI",
+      "Splunk",
+      "Maltego"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "MISP",
+        "Recorded Future",
+        "OpenCTI",
+        "YARA",
+        "Sigma",
+        "Maltego",
+        "VirusTotal"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 104500,
+      "max": 154000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Security Operations Center Manager",
+    "company": "CyberShield Corp.",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Lead a team of SOC analysts in 24/7 security monitoring operations. Develop and refine incident response procedures, manage escalation workflows, and report to executive leadership on security posture and metrics.",
+    "required_skills": [
+      "SOC Operations",
+      "Incident Response",
+      "Leadership",
+      "SIEM",
+      "Risk Management"
+    ],
+    "preferred_skills": [
+      "Splunk",
+      "Palo Alto Cortex XSOAR",
+      "ITIL",
+      "Project Management"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "Palo Alto Cortex XSOAR",
+        "CrowdStrike Falcon"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Incident Response",
+        "Risk Management",
+        "SOC Operations"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Cloud Security Engineer",
+    "company": "CloudSec Partners",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Implement and maintain security controls across AWS, Azure, and GCP environments. Configure cloud-native security services, manage IAM policies, and conduct cloud security assessments.",
+    "required_skills": [
+      "AWS",
+      "Microsoft Azure",
+      "Cloud Security",
+      "AWS IAM",
+      "Terraform"
+    ],
+    "preferred_skills": [
+      "Palo Alto Prisma Cloud",
+      "AWS GuardDuty",
+      "AWS Security Hub",
+      "Kubernetes"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "Microsoft Azure",
+        "AWS IAM",
+        "AWS GuardDuty",
+        "AWS Security Hub"
+      ],
+      "security_tools": [
+        "Palo Alto Prisma Cloud",
+        "Snyk",
+        "Trivy"
+      ],
+      "devops": [
+        "Terraform",
+        "Kubernetes"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Junior Malware Analyst",
+    "company": "MalwareHunters LLC",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Perform static and dynamic analysis of malicious software samples. Reverse-engineer malware to understand capabilities, persistence mechanisms, and communication protocols. Document findings and contribute to detection signatures.",
+    "required_skills": [
+      "Malware Analysis",
+      "Reverse Engineering",
+      "YARA",
+      "Linux",
+      "Windows"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Assembly",
+      "Volatility",
+      "IDA Pro",
+      "C"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "YARA",
+        "Volatility",
+        "VirusTotal"
+      ],
+      "programming": [
+        "Python",
+        "Assembly",
+        "C"
+      ],
+      "operating_systems": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Vulnerability Management Analyst",
+    "company": "PatchGuard Security",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Conduct vulnerability scans across enterprise infrastructure using industry-standard tools. Prioritize findings based on risk, track remediation efforts, and generate compliance reports for stakeholders.",
+    "required_skills": [
+      "Nessus",
+      "Qualys",
+      "Vulnerability Assessment",
+      "Risk Management",
+      "Network Security"
+    ],
+    "preferred_skills": [
+      "Rapid7 InsightVM",
+      "Python",
+      "SQL",
+      "Tenable.io"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Nessus",
+        "Qualys",
+        "Rapid7 InsightVM",
+        "Tenable.io"
+      ],
+      "networking": [
+        "TCP/IP",
+        "Network Security"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Identity and Access Management Engineer",
+    "company": "IAM Solutions Group",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Design and implement IAM solutions including SSO, MFA, and privileged access management. Manage Okta, Active Directory, and CyberArk deployments. Develop access governance policies and automate provisioning workflows.",
+    "required_skills": [
+      "Okta",
+      "Active Directory",
+      "CyberArk",
+      "IAM",
+      "SSO"
+    ],
+    "preferred_skills": [
+      "Azure Active Directory",
+      "Duo Security",
+      "PowerShell",
+      "LDAP"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Okta",
+        "CyberArk",
+        "Duo Security"
+      ],
+      "operating_systems": [
+        "Active Directory",
+        "Windows Server"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Digital Forensics Investigator",
+    "company": "ForensicTech Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Conduct digital forensic investigations on compromised systems, networks, and mobile devices. Preserve evidence chain of custody, perform disk and memory forensics, and prepare detailed reports for legal proceedings.",
+    "required_skills": [
+      "Autopsy",
+      "FTK",
+      "EnCase",
+      "Volatility",
+      "Incident Response"
+    ],
+    "preferred_skills": [
+      "Linux",
+      "Windows",
+      "Network Forensics",
+      "Python",
+      "Mobile Forensics"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Autopsy",
+        "FTK",
+        "EnCase",
+        "Volatility"
+      ],
+      "operating_systems": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Application Security Engineer",
+    "company": "AppSec Dynamics",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Integrate security into the SDLC through code reviews, static and dynamic application security testing, and developer training. Manage SAST/DAST tools and triage findings with development teams.",
+    "required_skills": [
+      "OWASP ZAP",
+      "Burp Suite",
+      "SonarQube",
+      "Checkmarx",
+      "Secure Coding"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "Veracode",
+      "Snyk"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "OWASP ZAP",
+        "Burp Suite",
+        "SonarQube",
+        "Checkmarx",
+        "Snyk",
+        "Veracode"
+      ],
+      "programming": [
+        "Python",
+        "Java",
+        "JavaScript"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Security Architect",
+    "company": "CyberFrame Consulting",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Design enterprise security architectures aligned with business objectives and regulatory requirements. Evaluate emerging technologies, develop security reference architectures, and advise leadership on strategic security investments.",
+    "required_skills": [
+      "Network Architecture",
+      "Zero Trust Networking",
+      "Cloud Security",
+      "Risk Management",
+      "Compliance"
+    ],
+    "preferred_skills": [
+      "AWS",
+      "Microsoft Azure",
+      "Palo Alto NGFW",
+      "Terraform",
+      "NIST Framework"
+    ],
+    "skill_categories": {
+      "networking": [
+        "Network Architecture",
+        "Zero Trust Networking",
+        "Network Segmentation"
+      ],
+      "cloud": [
+        "AWS",
+        "Microsoft Azure",
+        "GCP"
+      ],
+      "soft_skills": [
+        "Risk Management",
+        "Compliance",
+        "Leadership"
+      ]
+    },
+    "salary_range": {
+      "min": 154000,
+      "max": 220000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 14,
+    "title": "SOAR Platform Engineer",
+    "company": "AutoSec Technologies",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Build and maintain automated security workflows using SOAR platforms. Develop playbooks for common security incidents, integrate with SIEM and ticketing systems, and measure automation effectiveness.",
+    "required_skills": [
+      "Palo Alto Cortex XSOAR",
+      "Splunk SOAR",
+      "Python",
+      "REST APIs",
+      "Incident Response"
+    ],
+    "preferred_skills": [
+      "Splunk",
+      "TheHive",
+      "JIRA",
+      "Docker"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Cortex XSOAR",
+        "Splunk SOAR",
+        "Splunk",
+        "TheHive"
+      ],
+      "programming": [
+        "Python",
+        "JSON",
+        "YAML"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Cortex XDR Analyst",
+    "company": "Palo Alto Networks",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Monitor and investigate alerts generated by Palo Alto Cortex XDR. Perform endpoint investigation, analyze behavioral indicators, and develop custom detection rules. Provide support for incident response activities.",
+    "required_skills": [
+      "Palo Alto Cortex XDR",
+      "Endpoint Security",
+      "Incident Response",
+      "Windows",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Python",
+      "PowerShell",
+      "YARA"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Cortex XDR",
+        "Palo Alto NGFW",
+        "YARA"
+      ],
+      "operating_systems": [
+        "Windows",
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Network Security Engineer",
+    "company": "NetSecure Solutions",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Design and implement network security solutions including firewalls, IDS/IPS, and VPN concentrators. Perform network segmentation, access control configuration, and security monitoring.",
+    "required_skills": [
+      "Firewall Management",
+      "Snort",
+      "Suricata",
+      "VPN",
+      "Network Segmentation"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Cisco ASA",
+      "Fortinet FortiGate",
+      "Zeek"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Snort",
+        "Suricata",
+        "Zeek",
+        "Palo Alto NGFW"
+      ],
+      "networking": [
+        "Firewall Management",
+        "VPN",
+        "Network Segmentation",
+        "VLAN",
+        "IPSec"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Incident Response Team Lead",
+    "company": "RapidResponse Security",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Lead incident response engagements from detection through remediation. Coordinate cross-functional teams during active incidents, develop IR playbooks, and conduct post-incident reviews.",
+    "required_skills": [
+      "Incident Response",
+      "Digital Forensics",
+      "Malware Analysis",
+      "Leadership",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Splunk",
+      "CrowdStrike Falcon",
+      "Volatility",
+      "Python",
+      "Palo Alto Cortex XDR"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "CrowdStrike Falcon",
+        "Volatility",
+        "Palo Alto Cortex XDR"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Communication",
+        "Incident Response"
+      ]
+    },
+    "salary_range": {
+      "min": 154000,
+      "max": 220000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 18,
+    "title": "GRC Analyst",
+    "company": "ComplianceFirst Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Support governance, risk, and compliance activities including security assessments, policy development, and audit preparation. Map controls to frameworks such as NIST, ISO 27001, and SOC 2.",
+    "required_skills": [
+      "Compliance",
+      "Risk Management",
+      "Security Awareness",
+      "Technical Writing",
+      "ITIL"
+    ],
+    "preferred_skills": [
+      "ISO 27001",
+      "NIST Framework",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "skill_categories": {
+      "soft_skills": [
+        "Compliance",
+        "Risk Management",
+        "Technical Writing",
+        "ITIL",
+        "Security Awareness"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Cryptography Engineer",
+    "company": "CipherTech Labs",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Design and implement cryptographic protocols and key management systems. Evaluate post-quantum cryptography solutions, review code for cryptographic vulnerabilities, and advise on encryption standards.",
+    "required_skills": [
+      "Cryptography",
+      "SSL/TLS",
+      "PKI",
+      "Python",
+      "C"
+    ],
+    "preferred_skills": [
+      "Vault",
+      "AWS KMS",
+      "Go",
+      "HSM",
+      "Rust"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "C",
+        "Go",
+        "Rust"
+      ],
+      "networking": [
+        "SSL/TLS"
+      ],
+      "security_tools": [
+        "Vault"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Red Team Operator",
+    "company": "AdvThreat Simulations",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Conduct advanced adversary simulations against enterprise environments. Develop custom tooling, evade detection systems, and emulate nation-state TTPs. Provide strategic recommendations based on engagement findings.",
+    "required_skills": [
+      "Cobalt Strike",
+      "Metasploit",
+      "BloodHound",
+      "Mimikatz",
+      "C2 Frameworks"
+    ],
+    "preferred_skills": [
+      "C",
+      "C++",
+      "Go",
+      "Python",
+      "Active Directory"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Cobalt Strike",
+        "Metasploit",
+        "BloodHound",
+        "Mimikatz",
+        "Impacket"
+      ],
+      "programming": [
+        "C",
+        "C++",
+        "Go",
+        "Python",
+        "PowerShell"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Prisma Cloud Security Engineer",
+    "company": "Palo Alto Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage Palo Alto Prisma Cloud across multi-cloud environments. Configure cloud security posture management, workload protection, and container security policies. Integrate with CI/CD pipelines.",
+    "required_skills": [
+      "Palo Alto Prisma Cloud",
+      "AWS",
+      "Microsoft Azure",
+      "Kubernetes",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "Terraform",
+      "GCP",
+      "Trivy",
+      "GitHub Actions"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Prisma Cloud",
+        "Trivy"
+      ],
+      "cloud": [
+        "AWS",
+        "Microsoft Azure",
+        "GCP"
+      ],
+      "devops": [
+        "Kubernetes",
+        "Docker",
+        "Terraform"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Email Security Specialist",
+    "company": "MailShield Corp.",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Manage and monitor email security gateways to detect and prevent phishing, spam, and business email compromise. Analyze suspicious emails, configure DLP policies, and conduct phishing simulations.",
+    "required_skills": [
+      "Proofpoint",
+      "Email Security",
+      "Phishing Analysis",
+      "DNS",
+      "SMTP"
+    ],
+    "preferred_skills": [
+      "Mimecast",
+      "KnowBe4",
+      "Python",
+      "DLP Tools"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Proofpoint",
+        "Mimecast",
+        "KnowBe4",
+        "DLP Tools"
+      ],
+      "networking": [
+        "DNS",
+        "SMTP"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 23,
+    "title": "XSIAM Platform Administrator",
+    "company": "Palo Alto Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Administer Palo Alto Cortex XSIAM platform including data source onboarding, correlation rule development, and SOAR automation. Optimize detection coverage and reduce mean time to respond.",
+    "required_skills": [
+      "Palo Alto Cortex XSIAM",
+      "SIEM",
+      "Incident Response",
+      "Python",
+      "Log Analysis"
+    ],
+    "preferred_skills": [
+      "Palo Alto Cortex XSOAR",
+      "Palo Alto Cortex XDR",
+      "Splunk",
+      "Machine Learning"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Cortex XSIAM",
+        "Palo Alto Cortex XSOAR",
+        "Palo Alto Cortex XDR"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Container Security Engineer",
+    "company": "K8sSec Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Secure containerized environments across Kubernetes clusters. Implement admission controllers, network policies, and runtime security monitoring. Scan container images and manage vulnerability lifecycles.",
+    "required_skills": [
+      "Kubernetes",
+      "Docker",
+      "Trivy",
+      "Container Security",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Palo Alto Prisma Cloud",
+      "Aqua Security",
+      "Falco",
+      "Istio"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Kubernetes",
+        "Docker",
+        "Helm",
+        "Istio"
+      ],
+      "security_tools": [
+        "Trivy",
+        "Aqua Security",
+        "Palo Alto Prisma Cloud"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Security Compliance Engineer",
+    "company": "TrustVerify Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Implement technical controls to meet regulatory compliance requirements including PCI DSS, HIPAA, and SOX. Automate compliance checks, manage audit evidence collection, and maintain security documentation.",
+    "required_skills": [
+      "Compliance",
+      "Risk Management",
+      "AWS",
+      "Terraform",
+      "Python"
+    ],
+    "preferred_skills": [
+      "AWS Security Hub",
+      "Azure Sentinel",
+      "SonarQube",
+      "ITIL"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "AWS Security Hub"
+      ],
+      "soft_skills": [
+        "Compliance",
+        "Risk Management"
+      ],
+      "devops": [
+        "Terraform"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Wireless Security Engineer",
+    "company": "AirDefense Technologies",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Assess and secure wireless network infrastructure. Conduct wireless penetration testing, implement 802.1X authentication, and monitor for rogue access points. Design secure wireless architectures.",
+    "required_skills": [
+      "Wi-Fi Security",
+      "802.1X",
+      "Aircrack-ng",
+      "Network Security",
+      "RADIUS"
+    ],
+    "preferred_skills": [
+      "Kali Linux",
+      "Nmap",
+      "Wireshark",
+      "Cisco IOS"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Aircrack-ng",
+        "Kali Linux",
+        "Nmap",
+        "Wireshark"
+      ],
+      "networking": [
+        "Wi-Fi Security",
+        "802.1X",
+        "RADIUS",
+        "Network Security"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 27,
+    "title": "ICS/OT Security Engineer",
+    "company": "IndustrialCyber Corp.",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Protect industrial control systems and operational technology environments. Conduct ICS security assessments, implement network segmentation between IT and OT, and develop ICS-specific incident response procedures.",
+    "required_skills": [
+      "Network Segmentation",
+      "Firewall Management",
+      "Incident Response",
+      "SNMP",
+      "Network Monitoring"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Suricata",
+      "Wireshark",
+      "Python"
+    ],
+    "skill_categories": {
+      "networking": [
+        "Network Segmentation",
+        "SNMP",
+        "Network Monitoring",
+        "Firewall Management"
+      ],
+      "security_tools": [
+        "Palo Alto NGFW",
+        "Suricata",
+        "Wireshark"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Bug Bounty Researcher",
+    "company": "BugCrowd Elite",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Discover and responsibly report security vulnerabilities in web applications, APIs, and mobile apps through bug bounty programs. Focus on critical vulnerability classes including authentication bypasses, SSRF, and injection attacks.",
+    "required_skills": [
+      "Burp Suite",
+      "Web Application Security",
+      "OWASP ZAP",
+      "JavaScript",
+      "Python"
+    ],
+    "preferred_skills": [
+      "SQLMap",
+      "Nmap",
+      "Nikto",
+      "Go",
+      "Bash"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Burp Suite",
+        "OWASP ZAP",
+        "SQLMap",
+        "Nikto"
+      ],
+      "programming": [
+        "JavaScript",
+        "Python",
+        "Bash"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Cyber Threat Hunter",
+    "company": "ProactiveDefense Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Proactively search for advanced threats that bypass traditional security controls. Develop hunting hypotheses based on threat intelligence, analyze endpoint and network telemetry, and create detection content.",
+    "required_skills": [
+      "Splunk",
+      "CrowdStrike Falcon",
+      "YARA",
+      "Sigma",
+      "Python"
+    ],
+    "preferred_skills": [
+      "Elastic SIEM",
+      "Zeek",
+      "Palo Alto Cortex XDR",
+      "Machine Learning"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "CrowdStrike Falcon",
+        "YARA",
+        "Sigma",
+        "Elastic SIEM",
+        "Zeek",
+        "Palo Alto Cortex XDR"
+      ],
+      "programming": [
+        "Python",
+        "SQL",
+        "PowerShell"
+      ]
+    },
+    "salary_range": {
+      "min": 154000,
+      "max": 220000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Junior SOC Analyst",
+    "company": "WatchTower Security",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Monitor security dashboards and alerts as part of a 24/7 SOC team. Perform initial triage of security events, document incidents in ticketing systems, and escalate confirmed threats to senior analysts.",
+    "required_skills": [
+      "SIEM",
+      "Network Security",
+      "Windows",
+      "Linux",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Splunk",
+      "Wireshark",
+      "TCP/IP",
+      "Ticketing Systems"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "Wireshark"
+      ],
+      "operating_systems": [
+        "Windows",
+        "Linux"
+      ],
+      "networking": [
+        "TCP/IP",
+        "DNS"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Fortinet Firewall Administrator",
+    "company": "FortiSecure Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Manage and optimize Fortinet FortiGate firewalls across distributed enterprise locations. Configure security policies, VPN tunnels, and SD-WAN functionality. Utilize FortiAnalyzer for log analysis and reporting.",
+    "required_skills": [
+      "Fortinet FortiGate",
+      "Fortinet FortiAnalyzer",
+      "VPN",
+      "SD-WAN",
+      "Firewall Management"
+    ],
+    "preferred_skills": [
+      "Fortinet FortiManager",
+      "Fortinet FortiSIEM",
+      "BGP",
+      "OSPF"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Fortinet FortiGate",
+        "Fortinet FortiAnalyzer",
+        "Fortinet FortiManager"
+      ],
+      "networking": [
+        "VPN",
+        "SD-WAN",
+        "BGP",
+        "OSPF",
+        "Firewall Management"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Endpoint Security Engineer",
+    "company": "EndpointFirst Technologies",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage enterprise endpoint protection platforms. Develop custom detection rules, investigate endpoint alerts, and optimize EDR configurations to reduce false positives while maintaining detection coverage.",
+    "required_skills": [
+      "CrowdStrike Falcon",
+      "Microsoft Defender for Endpoint",
+      "Endpoint Security",
+      "Windows",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "SentinelOne",
+      "Carbon Black",
+      "PowerShell",
+      "Python"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "CrowdStrike Falcon",
+        "Microsoft Defender for Endpoint",
+        "SentinelOne",
+        "Carbon Black"
+      ],
+      "operating_systems": [
+        "Windows",
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 33,
+    "title": "SIEM Engineer",
+    "company": "LogInsight Solutions",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy, configure, and maintain enterprise SIEM platforms. Develop correlation rules, dashboards, and automated alerts. Onboard new log sources and optimize storage and performance.",
+    "required_skills": [
+      "Splunk",
+      "SIEM",
+      "Log Analysis",
+      "Python",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Elastic SIEM",
+      "IBM QRadar",
+      "Sigma",
+      "SQL"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "Elastic SIEM",
+        "IBM QRadar",
+        "Sigma"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Zero Trust Security Engineer",
+    "company": "ZTrust Architects",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Architect and implement zero trust security frameworks across enterprise environments. Design identity-centric access policies, micro-segmentation strategies, and continuous verification mechanisms.",
+    "required_skills": [
+      "Zero Trust Networking",
+      "Network Segmentation",
+      "Okta",
+      "Zscaler",
+      "Palo Alto Prisma Access"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Netskope",
+      "CrowdStrike Falcon",
+      "Azure Active Directory"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Okta",
+        "Zscaler",
+        "Palo Alto Prisma Access",
+        "Netskope",
+        "Palo Alto NGFW"
+      ],
+      "networking": [
+        "Zero Trust Networking",
+        "Network Segmentation"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 35,
+    "title": "DevSecOps Engineer",
+    "company": "ShiftLeft Security",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Embed security practices into CI/CD pipelines. Implement automated security scanning, container image validation, and infrastructure-as-code security checks. Champion shift-left security culture across development teams.",
+    "required_skills": [
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "Snyk",
+      "Terraform"
+    ],
+    "preferred_skills": [
+      "SonarQube",
+      "Trivy",
+      "Python",
+      "AWS",
+      "Vault"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "Terraform"
+      ],
+      "security_tools": [
+        "Snyk",
+        "SonarQube",
+        "Trivy",
+        "Vault"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Cyber Insurance Analyst",
+    "company": "CyberRisk Underwriters",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Evaluate cybersecurity posture of organizations applying for cyber insurance coverage. Assess risk based on security controls, incident history, and industry benchmarks. Produce risk scoring reports.",
+    "required_skills": [
+      "Risk Management",
+      "Compliance",
+      "Network Security",
+      "Communication",
+      "Technical Writing"
+    ],
+    "preferred_skills": [
+      "Nessus",
+      "Qualys",
+      "Cloud Security",
+      "Business Continuity"
+    ],
+    "skill_categories": {
+      "soft_skills": [
+        "Risk Management",
+        "Compliance",
+        "Communication",
+        "Technical Writing",
+        "Business Continuity"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Security Awareness Training Specialist",
+    "company": "HumanFirewall Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Design and deliver cybersecurity awareness training programs. Manage phishing simulation campaigns, track completion metrics, and develop engaging training content for diverse audiences.",
+    "required_skills": [
+      "KnowBe4",
+      "Security Awareness",
+      "Communication",
+      "Presentation Skills",
+      "Phishing Analysis"
+    ],
+    "preferred_skills": [
+      "Technical Writing",
+      "Proofpoint",
+      "Video Production",
+      "LMS"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "KnowBe4",
+        "Proofpoint"
+      ],
+      "soft_skills": [
+        "Security Awareness",
+        "Communication",
+        "Presentation Skills"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 38,
+    "title": "OSINT Investigator",
+    "company": "OpenSource Intel Group",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Conduct open-source intelligence investigations to support corporate security, due diligence, and threat assessments. Use advanced search techniques, social media analysis, and domain reconnaissance tools.",
+    "required_skills": [
+      "Maltego",
+      "Shodan",
+      "Recon-ng",
+      "theHarvester",
+      "SpiderFoot"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Censys",
+      "GreyNoise",
+      "Bash"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Maltego",
+        "Shodan",
+        "Recon-ng",
+        "theHarvester",
+        "SpiderFoot",
+        "Censys",
+        "GreyNoise"
+      ],
+      "programming": [
+        "Python",
+        "Bash"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Wazuh Security Engineer",
+    "company": "OpenDefense Corp.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage Wazuh SIEM/XDR platform for host-based intrusion detection, log analysis, and compliance monitoring. Develop custom rules, integrate with third-party tools, and manage agent deployments.",
+    "required_skills": [
+      "Wazuh",
+      "OSSEC",
+      "Linux",
+      "Log Analysis",
+      "Incident Response"
+    ],
+    "preferred_skills": [
+      "Elastic SIEM",
+      "Python",
+      "Docker",
+      "Ansible"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Wazuh",
+        "OSSEC",
+        "Elastic SIEM"
+      ],
+      "operating_systems": [
+        "Linux"
+      ],
+      "devops": [
+        "Docker",
+        "Ansible"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 40,
+    "title": "PAM Administrator",
+    "company": "PrivAccess Solutions",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Administer privileged access management platforms including CyberArk and BeyondTrust. Manage credential vaults, session recording, and just-in-time access provisioning across hybrid environments.",
+    "required_skills": [
+      "CyberArk",
+      "BeyondTrust",
+      "Active Directory",
+      "Windows Server",
+      "IAM"
+    ],
+    "preferred_skills": [
+      "Vault",
+      "PowerShell",
+      "Python",
+      "Azure Active Directory"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "CyberArk",
+        "BeyondTrust",
+        "Vault"
+      ],
+      "operating_systems": [
+        "Active Directory",
+        "Windows Server"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Cloud Solutions Architect",
+    "company": "CloudFirst Technologies",
+    "industry": "cloud",
+    "experience_level": "senior",
+    "description": "Design and implement scalable, highly available cloud architectures on AWS and Azure. Lead cloud migration strategies, define best practices, and mentor engineering teams on cloud-native development patterns.",
+    "required_skills": [
+      "AWS",
+      "Microsoft Azure",
+      "Terraform",
+      "Kubernetes",
+      "Network Architecture"
+    ],
+    "preferred_skills": [
+      "GCP",
+      "Docker",
+      "Serverless",
+      "Microservices",
+      "ArgoCD"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "Microsoft Azure",
+        "AWS EC2",
+        "AWS S3",
+        "AWS Lambda"
+      ],
+      "devops": [
+        "Terraform",
+        "Kubernetes",
+        "Docker",
+        "ArgoCD"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 42,
+    "title": "AWS Cloud Engineer",
+    "company": "Nimbus Cloud Services",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Build and maintain AWS infrastructure for production workloads. Manage EC2 instances, configure networking with VPCs, implement CI/CD pipelines, and ensure high availability and disaster recovery.",
+    "required_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS VPC",
+      "AWS S3",
+      "Terraform"
+    ],
+    "preferred_skills": [
+      "AWS Lambda",
+      "AWS EKS",
+      "Python",
+      "Jenkins",
+      "CloudFormation"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "AWS EC2",
+        "AWS VPC",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS EKS"
+      ],
+      "devops": [
+        "Terraform",
+        "Jenkins"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Azure DevOps Engineer",
+    "company": "Microsoft Partner Solutions",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Implement and manage CI/CD pipelines using Azure DevOps. Automate infrastructure provisioning, manage Azure Kubernetes Service clusters, and ensure seamless deployment workflows.",
+    "required_skills": [
+      "Azure DevOps",
+      "Microsoft Azure",
+      "Azure Kubernetes Service",
+      "Terraform",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "PowerShell",
+      "Ansible",
+      "Azure Functions",
+      "Helm"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "Microsoft Azure",
+        "Azure DevOps",
+        "Azure Kubernetes Service",
+        "Azure Functions"
+      ],
+      "devops": [
+        "Terraform",
+        "Docker",
+        "Helm",
+        "Ansible"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Site Reliability Engineer",
+    "company": "UptimeForce Inc.",
+    "industry": "cloud",
+    "experience_level": "senior",
+    "description": "Ensure reliability and performance of large-scale distributed systems. Define and track SLOs, implement observability stacks, automate incident response, and lead blameless post-mortems.",
+    "required_skills": [
+      "Kubernetes",
+      "Prometheus",
+      "Grafana",
+      "Linux",
+      "Python"
+    ],
+    "preferred_skills": [
+      "Go",
+      "Terraform",
+      "Datadog",
+      "PagerDuty",
+      "Istio"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "Terraform",
+        "Istio",
+        "Datadog"
+      ],
+      "programming": [
+        "Python",
+        "Go"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Junior DevOps Engineer",
+    "company": "PipelinePro Corp.",
+    "industry": "cloud",
+    "experience_level": "entry",
+    "description": "Support CI/CD pipeline operations, assist with infrastructure automation, and help maintain container orchestration platforms. Learn and apply DevOps best practices in a fast-paced environment.",
+    "required_skills": [
+      "Docker",
+      "Git",
+      "Linux",
+      "Bash",
+      "Jenkins"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "AWS"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Docker",
+        "Git",
+        "Jenkins",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "programming": [
+        "Bash",
+        "Python"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Infrastructure Engineer",
+    "company": "TechFoundation LLC",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Design and manage on-premises and cloud infrastructure. Automate server provisioning, manage VMware environments, and ensure network connectivity across hybrid deployments.",
+    "required_skills": [
+      "VMware vSphere",
+      "Linux",
+      "Windows Server",
+      "Ansible",
+      "Network Architecture"
+    ],
+    "preferred_skills": [
+      "Terraform",
+      "AWS",
+      "Docker",
+      "PowerShell",
+      "Nagios"
+    ],
+    "skill_categories": {
+      "operating_systems": [
+        "VMware vSphere",
+        "Linux",
+        "Windows Server"
+      ],
+      "devops": [
+        "Ansible",
+        "Terraform",
+        "Docker",
+        "Nagios"
+      ],
+      "networking": [
+        "Network Architecture"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Platform Engineer",
+    "company": "DevPlatform Inc.",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Build and maintain internal developer platforms. Create self-service infrastructure provisioning, manage service catalogs, and improve developer productivity through standardized tooling and golden paths.",
+    "required_skills": [
+      "Kubernetes",
+      "Terraform",
+      "Docker",
+      "GitHub Actions",
+      "Go"
+    ],
+    "preferred_skills": [
+      "ArgoCD",
+      "Helm",
+      "Backstage",
+      "AWS",
+      "Python"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Kubernetes",
+        "Terraform",
+        "Docker",
+        "GitHub Actions",
+        "ArgoCD",
+        "Helm"
+      ],
+      "programming": [
+        "Go",
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Cloud Database Administrator",
+    "company": "DataCloud Solutions",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Manage cloud-hosted database services including RDS, Aurora, and DynamoDB. Optimize query performance, implement backup strategies, and ensure data security and compliance.",
+    "required_skills": [
+      "AWS RDS",
+      "PostgreSQL",
+      "MySQL",
+      "AWS DynamoDB",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "MongoDB",
+      "Redis",
+      "Terraform",
+      "Python"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS RDS",
+        "AWS DynamoDB"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "programming": [
+        "SQL",
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 49,
+    "title": "GCP Cloud Engineer",
+    "company": "Google Cloud Partners",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Deploy and manage workloads on Google Cloud Platform. Configure Compute Engine instances, manage GKE clusters, and implement data pipelines using BigQuery and Cloud Functions.",
+    "required_skills": [
+      "Google Cloud Platform",
+      "GCP GKE",
+      "GCP BigQuery",
+      "GCP Compute Engine",
+      "Terraform"
+    ],
+    "preferred_skills": [
+      "GCP Cloud Functions",
+      "Python",
+      "Docker",
+      "Kubernetes"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "Google Cloud Platform",
+        "GCP GKE",
+        "GCP BigQuery",
+        "GCP Compute Engine",
+        "GCP Cloud Functions"
+      ],
+      "devops": [
+        "Terraform",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Kubernetes Administrator",
+    "company": "ContainerOps Inc.",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Manage production Kubernetes clusters across multiple environments. Handle cluster upgrades, implement RBAC policies, configure ingress controllers, and troubleshoot pod scheduling issues.",
+    "required_skills": [
+      "Kubernetes",
+      "Docker",
+      "Helm",
+      "Linux",
+      "Networking"
+    ],
+    "preferred_skills": [
+      "Istio",
+      "Rancher",
+      "OpenShift",
+      "Prometheus",
+      "Grafana"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Kubernetes",
+        "Docker",
+        "Helm",
+        "Istio",
+        "Rancher",
+        "OpenShift",
+        "Prometheus",
+        "Grafana"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 51,
+    "title": "Cloud Network Engineer",
+    "company": "CloudNet Architects",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Design and implement cloud networking solutions including VPCs, transit gateways, and hybrid connectivity. Configure load balancers, DNS, and CDN services across multi-cloud environments.",
+    "required_skills": [
+      "AWS VPC",
+      "Network Architecture",
+      "DNS",
+      "Load Balancing",
+      "VPN"
+    ],
+    "preferred_skills": [
+      "Azure Virtual Machines",
+      "Cloudflare",
+      "BGP",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS VPC",
+        "Azure Virtual Machines"
+      ],
+      "networking": [
+        "Network Architecture",
+        "DNS",
+        "Load Balancing",
+        "VPN",
+        "BGP"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 52,
+    "title": "Serverless Developer",
+    "company": "LambdaStack Technologies",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Build event-driven serverless applications using AWS Lambda, API Gateway, and DynamoDB. Design cost-efficient architectures and implement monitoring with CloudWatch.",
+    "required_skills": [
+      "AWS Lambda",
+      "AWS DynamoDB",
+      "Python",
+      "AWS S3",
+      "AWS CloudWatch"
+    ],
+    "preferred_skills": [
+      "TypeScript",
+      "AWS SNS",
+      "AWS SQS",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS Lambda",
+        "AWS DynamoDB",
+        "AWS S3",
+        "AWS CloudWatch",
+        "AWS SNS",
+        "AWS SQS"
+      ],
+      "programming": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 53,
+    "title": "Infrastructure as Code Engineer",
+    "company": "CodeInfra Solutions",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Develop and maintain infrastructure-as-code modules using Terraform, Pulumi, and CloudFormation. Implement GitOps workflows, manage state files, and enforce infrastructure compliance policies.",
+    "required_skills": [
+      "Terraform",
+      "AWS",
+      "Git",
+      "Python",
+      "CloudFormation"
+    ],
+    "preferred_skills": [
+      "Pulumi",
+      "Ansible",
+      "GitHub Actions",
+      "Sentinel"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Terraform",
+        "Git",
+        "Ansible",
+        "GitHub Actions",
+        "Pulumi",
+        "CloudFormation"
+      ],
+      "cloud": [
+        "AWS"
+      ],
+      "programming": [
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 54,
+    "title": "Observability Engineer",
+    "company": "InsightOps Corp.",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Design and implement observability solutions using distributed tracing, metrics, and logging. Build dashboards, configure alerting, and help teams improve system reliability through data-driven insights.",
+    "required_skills": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "Datadog",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "New Relic",
+      "Fluentd",
+      "Python",
+      "Kubernetes"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Prometheus",
+        "Grafana",
+        "ELK Stack",
+        "Datadog",
+        "New Relic",
+        "Fluentd",
+        "Kubernetes"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 55,
+    "title": "Cloud Migration Specialist",
+    "company": "MigrateFirst Partners",
+    "industry": "cloud",
+    "experience_level": "senior",
+    "description": "Lead large-scale cloud migration projects from on-premises data centers to AWS and Azure. Assess application portfolios, develop migration strategies (rehost, replatform, refactor), and manage execution.",
+    "required_skills": [
+      "AWS",
+      "Microsoft Azure",
+      "VMware vSphere",
+      "Project Management",
+      "Network Architecture"
+    ],
+    "preferred_skills": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "Microsoft Azure"
+      ],
+      "operating_systems": [
+        "VMware vSphere"
+      ],
+      "soft_skills": [
+        "Project Management"
+      ],
+      "networking": [
+        "Network Architecture"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 56,
+    "title": "Junior Cloud Support Engineer",
+    "company": "CloudHelp Services",
+    "industry": "cloud",
+    "experience_level": "entry",
+    "description": "Provide technical support for cloud infrastructure issues. Troubleshoot EC2 instances, S3 configurations, and networking problems. Document solutions and contribute to knowledge base articles.",
+    "required_skills": [
+      "AWS",
+      "Linux",
+      "TCP/IP",
+      "DNS",
+      "Bash"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Docker",
+      "Windows Server",
+      "AWS EC2"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "AWS EC2"
+      ],
+      "operating_systems": [
+        "Linux",
+        "Windows Server"
+      ],
+      "networking": [
+        "TCP/IP",
+        "DNS"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 57,
+    "title": "Full Stack Software Engineer",
+    "company": "TechForge Labs",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Develop and maintain full-stack web applications using React and Node.js. Design RESTful APIs, implement database schemas, and collaborate with product teams to deliver features on schedule.",
+    "required_skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Next.js",
+      "Docker",
+      "AWS",
+      "GraphQL",
+      "Redis"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "React",
+        "Node.js",
+        "Next.js"
+      ],
+      "programming": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 58,
+    "title": "Backend Software Engineer",
+    "company": "DataStream Inc.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Design and implement scalable backend services using Java and Spring Boot. Build microservices architectures, implement message queuing, and optimize database queries for high-throughput systems.",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Apache Kafka",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Redis",
+      "MongoDB",
+      "Elasticsearch",
+      "gRPC"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Java"
+      ],
+      "frameworks": [
+        "Spring Boot"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Apache Kafka",
+        "Redis",
+        "MongoDB",
+        "Elasticsearch"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Frontend Developer",
+    "company": "PixelPerfect Studios",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Create responsive, accessible web interfaces using React and TypeScript. Implement design system components, optimize rendering performance, and ensure cross-browser compatibility.",
+    "required_skills": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "HTML",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Next.js",
+      "TailwindCSS",
+      "Storybook",
+      "Jest",
+      "Cypress"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "React",
+        "Next.js",
+        "TailwindCSS",
+        "Storybook",
+        "Jest",
+        "Cypress"
+      ],
+      "programming": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Junior Software Developer",
+    "company": "CodeStart Inc.",
+    "industry": "software_engineering",
+    "experience_level": "entry",
+    "description": "Write clean, tested code to implement new features and fix bugs. Participate in code reviews, learn development best practices, and collaborate with senior engineers in an agile environment.",
+    "required_skills": [
+      "Python",
+      "Git",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "preferred_skills": [
+      "JavaScript",
+      "Django",
+      "PostgreSQL",
+      "Docker",
+      "Linux"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Django"
+      ],
+      "devops": [
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 61,
+    "title": "Senior Software Architect",
+    "company": "ArchDesign Technologies",
+    "industry": "software_engineering",
+    "experience_level": "senior",
+    "description": "Define technical architecture for large-scale enterprise applications. Make technology stack decisions, establish coding standards, and lead architectural reviews. Mentor engineering teams and drive technical excellence.",
+    "required_skills": [
+      "Java",
+      "Microservices",
+      "Kubernetes",
+      "AWS",
+      "System Design"
+    ],
+    "preferred_skills": [
+      "Go",
+      "gRPC",
+      "Apache Kafka",
+      "Redis",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Java",
+        "Go"
+      ],
+      "devops": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "cloud": [
+        "AWS"
+      ],
+      "databases": [
+        "Apache Kafka",
+        "Redis"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 62,
+    "title": "Mobile Developer",
+    "company": "AppVenture Studios",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Build cross-platform mobile applications using React Native. Implement native device features, optimize app performance, and manage app store releases for iOS and Android.",
+    "required_skills": [
+      "React Native",
+      "TypeScript",
+      "JavaScript",
+      "Git",
+      "REST APIs"
+    ],
+    "preferred_skills": [
+      "Swift",
+      "Kotlin",
+      "Firebase",
+      "Jest"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "React Native",
+        "Jest"
+      ],
+      "programming": [
+        "TypeScript",
+        "JavaScript",
+        "Swift",
+        "Kotlin"
+      ],
+      "databases": [
+        "Firebase"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 63,
+    "title": "Python Developer",
+    "company": "PyWorks Solutions",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Develop backend services and automation tools using Python. Build REST APIs with FastAPI, implement data processing pipelines, and write comprehensive test suites.",
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Redis",
+      "Celery",
+      "AWS Lambda",
+      "Pytest"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "Celery",
+        "Pytest"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 64,
+    "title": "Embedded Systems Engineer",
+    "company": "FirmwareTech Inc.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Develop firmware for embedded systems and IoT devices. Write low-level C/C++ code, interface with hardware peripherals, and optimize for memory and power constraints.",
+    "required_skills": [
+      "C",
+      "C++",
+      "Embedded Linux",
+      "RTOS",
+      "Assembly"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Git",
+      "VHDL",
+      "Verilog"
+    ],
+    "skill_categories": {
+      "programming": [
+        "C",
+        "C++",
+        "Assembly"
+      ],
+      "operating_systems": [
+        "Embedded Linux",
+        "RTOS"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 65,
+    "title": "QA Automation Engineer",
+    "company": "TestDriven Corp.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Design and implement automated test frameworks for web and API testing. Write end-to-end tests, integrate testing into CI/CD pipelines, and champion quality engineering practices.",
+    "required_skills": [
+      "Selenium",
+      "Cypress",
+      "Python",
+      "JavaScript",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Jest",
+      "Pytest",
+      "Jenkins",
+      "Docker",
+      "TypeScript"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "Selenium",
+        "Cypress",
+        "Jest",
+        "Pytest"
+      ],
+      "programming": [
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "devops": [
+        "Jenkins",
+        "Docker",
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 66,
+    "title": "Blockchain Developer",
+    "company": "ChainForge Labs",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Develop smart contracts and decentralized applications on Ethereum and other blockchain platforms. Implement token standards, conduct security audits, and build Web3 interfaces.",
+    "required_skills": [
+      "Solidity",
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "Cryptography"
+    ],
+    "preferred_skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "Go"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Solidity",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "React",
+        "Node.js"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 67,
+    "title": "API Developer",
+    "company": "InterfaceFirst Inc.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Design and develop RESTful and GraphQL APIs for consumer and enterprise applications. Implement authentication, rate limiting, and API versioning strategies. Maintain API documentation and SDKs.",
+    "required_skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "Go",
+      "Redis",
+      "AWS Lambda",
+      "Swagger"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "Node.js"
+      ],
+      "programming": [
+        "TypeScript",
+        "GraphQL",
+        "Go"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 68,
+    "title": "Game Developer",
+    "company": "PixelForge Studios",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Develop gameplay systems and engine features using C++ and C#. Optimize rendering performance, implement physics simulations, and collaborate with artists and designers.",
+    "required_skills": [
+      "C++",
+      "C#",
+      "Git",
+      "3D Math",
+      "Problem Solving"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Lua",
+      "Shader Programming"
+    ],
+    "skill_categories": {
+      "programming": [
+        "C++",
+        "C#",
+        "Lua",
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 69,
+    "title": "Junior Frontend Developer",
+    "company": "WebStart Academy",
+    "industry": "software_engineering",
+    "experience_level": "entry",
+    "description": "Build and maintain responsive web pages using HTML, CSS, and JavaScript. Learn React framework, participate in design reviews, and implement pixel-perfect UI components from mockups.",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "Teamwork"
+    ],
+    "preferred_skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Figma"
+    ],
+    "skill_categories": {
+      "programming": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React",
+        "TailwindCSS"
+      ],
+      "devops": [
+        "Git"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 70,
+    "title": "Go Backend Engineer",
+    "company": "GoScale Technologies",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Build high-performance microservices in Go. Design concurrent systems, implement gRPC APIs, and deploy services on Kubernetes. Focus on low-latency, high-throughput architectures.",
+    "required_skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "PostgreSQL",
+      "gRPC"
+    ],
+    "preferred_skills": [
+      "Redis",
+      "Apache Kafka",
+      "Prometheus",
+      "Git"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Go"
+      ],
+      "frameworks": [
+        "gRPC"
+      ],
+      "devops": [
+        "Kubernetes",
+        "Docker",
+        "Prometheus"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis",
+        "Apache Kafka"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 71,
+    "title": "Rust Systems Developer",
+    "company": "SafeSystems Inc.",
+    "industry": "software_engineering",
+    "experience_level": "senior",
+    "description": "Develop high-performance, memory-safe systems software in Rust. Build networking libraries, implement protocol parsers, and contribute to open-source security tooling.",
+    "required_skills": [
+      "Rust",
+      "C",
+      "Linux",
+      "Git",
+      "System Design"
+    ],
+    "preferred_skills": [
+      "Go",
+      "Python",
+      "Networking",
+      "Assembly"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Rust",
+        "C",
+        "Go",
+        "Python"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 72,
+    "title": "Technical Lead - Web Platform",
+    "company": "ScaleUp Software",
+    "industry": "software_engineering",
+    "experience_level": "senior",
+    "description": "Lead a team of frontend and backend engineers building a SaaS platform. Drive technical decisions, conduct architecture reviews, and balance tech debt reduction with feature delivery.",
+    "required_skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Leadership"
+    ],
+    "preferred_skills": [
+      "Next.js",
+      "GraphQL",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "React",
+        "Node.js",
+        "Next.js"
+      ],
+      "programming": [
+        "TypeScript",
+        "GraphQL"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Project Management"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 73,
+    "title": "Junior Backend Developer",
+    "company": "BuildRight Software",
+    "industry": "software_engineering",
+    "experience_level": "entry",
+    "description": "Develop backend features using Python and Django. Write unit tests, implement database migrations, and learn to build secure, scalable web applications in a mentorship-focused environment.",
+    "required_skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "JavaScript"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "SQL",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Django"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 74,
+    "title": "DevOps Manager",
+    "company": "OpsScale Corp.",
+    "industry": "cloud",
+    "experience_level": "senior",
+    "description": "Lead and grow a DevOps engineering team. Define infrastructure strategy, manage cloud budgets, and establish SRE practices. Drive organizational adoption of DevOps culture and tooling.",
+    "required_skills": [
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Leadership",
+      "Project Management"
+    ],
+    "preferred_skills": [
+      "Docker",
+      "Jenkins",
+      "Python",
+      "Datadog",
+      "Agile"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Kubernetes",
+        "Terraform",
+        "Docker",
+        "Jenkins",
+        "Datadog"
+      ],
+      "cloud": [
+        "AWS"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Project Management",
+        "Agile"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 75,
+    "title": "Data Scientist",
+    "company": "InsightAI Labs",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Apply statistical methods and machine learning techniques to solve business problems. Build predictive models, conduct A/B testing, and communicate insights to stakeholders through data visualizations.",
+    "required_skills": [
+      "Python",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Tableau",
+      "Jupyter",
+      "R"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "TensorFlow",
+        "Tableau",
+        "Jupyter"
+      ],
+      "programming": [
+        "Python",
+        "SQL",
+        "R"
+      ]
+    },
+    "salary_range": {
+      "min": 114000,
+      "max": 168000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 76,
+    "title": "Machine Learning Engineer",
+    "company": "NeuralPath Technologies",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Design, train, and deploy machine learning models at scale. Build ML pipelines, optimize model performance, and implement model monitoring in production environments.",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "AWS"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "MLflow",
+      "SageMaker",
+      "Apache Spark",
+      "Go"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "TensorFlow",
+        "PyTorch",
+        "MLflow",
+        "SageMaker",
+        "Apache Spark"
+      ],
+      "programming": [
+        "Python"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "salary_range": {
+      "min": 114000,
+      "max": 168000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 77,
+    "title": "Data Engineer",
+    "company": "PipelineForge Inc.",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Build and maintain data pipelines and ETL processes. Design data warehouse schemas, implement data quality checks, and optimize query performance for analytics workloads.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Apache Airflow",
+      "AWS"
+    ],
+    "preferred_skills": [
+      "Snowflake",
+      "dbt",
+      "Apache Kafka",
+      "Databricks",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "Apache Spark",
+        "Apache Airflow",
+        "ETL"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ],
+      "databases": [
+        "Snowflake",
+        "Apache Kafka",
+        "Databricks"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 78,
+    "title": "AI Research Scientist",
+    "company": "DeepMind Research Lab",
+    "industry": "data_ai",
+    "experience_level": "senior",
+    "description": "Conduct research in deep learning, natural language processing, or computer vision. Publish papers, develop novel architectures, and translate research breakthroughs into practical applications.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Neural Networks",
+      "Statistical Analysis"
+    ],
+    "preferred_skills": [
+      "Transformers",
+      "Reinforcement Learning",
+      "BERT",
+      "GPT",
+      "C++"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "PyTorch",
+        "Deep Learning",
+        "Neural Networks",
+        "Transformers",
+        "Reinforcement Learning",
+        "BERT",
+        "GPT"
+      ],
+      "programming": [
+        "Python",
+        "C++"
+      ]
+    },
+    "salary_range": {
+      "min": 168000,
+      "max": 240000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 79,
+    "title": "NLP Engineer",
+    "company": "LanguageAI Corp.",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Build natural language processing systems for text classification, entity extraction, and sentiment analysis. Fine-tune large language models and develop production NLP pipelines.",
+    "required_skills": [
+      "Python",
+      "NLP",
+      "Hugging Face",
+      "SpaCy",
+      "PyTorch"
+    ],
+    "preferred_skills": [
+      "BERT",
+      "GPT",
+      "LangChain",
+      "Docker",
+      "FastAPI"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "NLP",
+        "Hugging Face",
+        "SpaCy",
+        "PyTorch",
+        "BERT",
+        "GPT",
+        "LangChain"
+      ],
+      "programming": [
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 114000,
+      "max": 168000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 80,
+    "title": "Computer Vision Engineer",
+    "company": "VisionTech Labs",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Develop computer vision models for object detection, image segmentation, and video analysis. Deploy models on edge devices and cloud infrastructure with optimized inference performance.",
+    "required_skills": [
+      "Python",
+      "OpenCV",
+      "PyTorch",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "Docker",
+      "AWS",
+      "C++",
+      "CUDA"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "OpenCV",
+        "PyTorch",
+        "Computer Vision",
+        "Deep Learning",
+        "TensorFlow"
+      ],
+      "programming": [
+        "Python",
+        "C++"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 81,
+    "title": "Junior Data Analyst",
+    "company": "AnalyticsPro Inc.",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Analyze business data to identify trends and insights. Create reports and dashboards, perform ad-hoc queries, and support data-driven decision making across the organization.",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Data Visualization",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Tableau",
+      "Power BI",
+      "Pandas",
+      "Statistical Analysis"
+    ],
+    "skill_categories": {
+      "programming": [
+        "SQL",
+        "Python"
+      ],
+      "data_science": [
+        "Data Visualization",
+        "Tableau",
+        "Power BI",
+        "Pandas",
+        "Statistical Analysis"
+      ]
+    },
+    "salary_range": {
+      "min": 69000,
+      "max": 109249,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 82,
+    "title": "MLOps Engineer",
+    "company": "ModelOps Solutions",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Build and maintain ML infrastructure and model deployment pipelines. Implement experiment tracking, model versioning, and automated retraining workflows. Ensure model reliability in production.",
+    "required_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "AWS"
+    ],
+    "preferred_skills": [
+      "Kubeflow",
+      "SageMaker",
+      "Terraform",
+      "Apache Airflow",
+      "Go"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "MLflow",
+        "Kubeflow",
+        "SageMaker",
+        "Apache Airflow"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "programming": [
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 114000,
+      "max": 168000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 83,
+    "title": "LLM Application Developer",
+    "company": "GenAI Innovations",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Build applications powered by large language models. Implement RAG architectures, develop prompt engineering strategies, and create conversational AI experiences using LangChain and vector databases.",
+    "required_skills": [
+      "Python",
+      "LangChain",
+      "RAG",
+      "Prompt Engineering",
+      "REST APIs"
+    ],
+    "preferred_skills": [
+      "FastAPI",
+      "Docker",
+      "Elasticsearch",
+      "GPT",
+      "Hugging Face"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "LangChain",
+        "RAG",
+        "Prompt Engineering",
+        "GPT",
+        "Hugging Face"
+      ],
+      "programming": [
+        "Python"
+      ],
+      "frameworks": [
+        "FastAPI"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 84,
+    "title": "Business Intelligence Developer",
+    "company": "DataViz Corp.",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Design and build BI dashboards and reports using Tableau and Power BI. Develop data models, create KPI tracking systems, and work with stakeholders to translate business requirements into analytics solutions.",
+    "required_skills": [
+      "Tableau",
+      "Power BI",
+      "SQL",
+      "Data Visualization",
+      "ETL"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Snowflake",
+      "dbt",
+      "Looker"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "Tableau",
+        "Power BI",
+        "Data Visualization",
+        "ETL"
+      ],
+      "programming": [
+        "SQL",
+        "Python"
+      ],
+      "databases": [
+        "Snowflake"
+      ]
+    },
+    "salary_range": {
+      "min": 109249,
+      "max": 161000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 85,
+    "title": "Data Platform Engineer",
+    "company": "LakehouseForge Inc.",
+    "industry": "data_ai",
+    "experience_level": "senior",
+    "description": "Architect and build modern data platforms using lakehouse architecture. Manage Databricks and Snowflake environments, implement data governance, and optimize costs across petabyte-scale data systems.",
+    "required_skills": [
+      "Databricks",
+      "Snowflake",
+      "Apache Spark",
+      "Python",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "Terraform",
+      "AWS",
+      "Apache Kafka",
+      "dbt",
+      "Delta Lake"
+    ],
+    "skill_categories": {
+      "databases": [
+        "Databricks",
+        "Snowflake",
+        "Apache Kafka"
+      ],
+      "data_science": [
+        "Apache Spark",
+        "ETL"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 161000,
+      "max": 229999,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 86,
+    "title": "AI Security Researcher",
+    "company": "SafeAI Labs",
+    "industry": "data_ai",
+    "experience_level": "senior",
+    "description": "Research adversarial attacks and defenses for ML models. Evaluate model robustness, develop red-teaming frameworks for LLMs, and publish findings on AI safety and security.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning",
+      "Security Awareness"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "Adversarial ML",
+      "Prompt Engineering",
+      "Rust"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "PyTorch",
+        "Machine Learning",
+        "Deep Learning",
+        "Prompt Engineering"
+      ],
+      "programming": [
+        "Python",
+        "Rust"
+      ]
+    },
+    "salary_range": {
+      "min": 168000,
+      "max": 240000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 87,
+    "title": "Cybersecurity Data Analyst",
+    "company": "SecureAnalytics Corp.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Apply data analysis techniques to security datasets. Build detection models using machine learning, analyze network traffic patterns, and create dashboards for security metrics and KPIs.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Splunk",
+      "Data Visualization"
+    ],
+    "preferred_skills": [
+      "Scikit-learn",
+      "Elastic SIEM",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "Pandas",
+        "Scikit-learn",
+        "Data Visualization",
+        "Jupyter",
+        "Machine Learning"
+      ],
+      "security_tools": [
+        "Splunk",
+        "Elastic SIEM"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 88,
+    "title": "Security Software Engineer",
+    "company": "SecureDev Corp.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Build security-focused software products including authentication systems, encryption libraries, and security scanning tools. Write secure code by default and conduct threat modeling for new features.",
+    "required_skills": [
+      "Python",
+      "Go",
+      "Cryptography",
+      "REST APIs",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "Rust",
+      "Kubernetes",
+      "PostgreSQL",
+      "gRPC"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 89,
+    "title": "Network Engineer",
+    "company": "NetOps Partners",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Configure and maintain enterprise network infrastructure including routers, switches, and wireless controllers. Implement routing protocols, manage VLANs, and troubleshoot connectivity issues.",
+    "required_skills": [
+      "Cisco IOS",
+      "TCP/IP",
+      "BGP",
+      "OSPF",
+      "VLAN"
+    ],
+    "preferred_skills": [
+      "Juniper Junos",
+      "Arista EOS",
+      "Python",
+      "Ansible"
+    ],
+    "skill_categories": {
+      "networking": [
+        "Cisco IOS",
+        "TCP/IP",
+        "BGP",
+        "OSPF",
+        "VLAN",
+        "Subnetting",
+        "NAT"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 90,
+    "title": "Systems Administrator",
+    "company": "AdminOps Inc.",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Manage Linux and Windows server environments. Handle patching, user management, backup systems, and monitoring. Automate routine tasks and maintain documentation.",
+    "required_skills": [
+      "Linux",
+      "Windows Server",
+      "Active Directory",
+      "Bash",
+      "PowerShell"
+    ],
+    "preferred_skills": [
+      "Ansible",
+      "Docker",
+      "VMware vSphere",
+      "Python",
+      "Nagios"
+    ],
+    "skill_categories": {
+      "operating_systems": [
+        "Linux",
+        "Windows Server",
+        "Active Directory",
+        "VMware vSphere"
+      ],
+      "programming": [
+        "Bash",
+        "PowerShell"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 91,
+    "title": "Security Product Manager",
+    "company": "CyberProduct Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Drive product strategy and roadmap for cybersecurity products. Gather customer requirements, prioritize features, and collaborate with engineering teams to deliver innovative security solutions.",
+    "required_skills": [
+      "Project Management",
+      "Communication",
+      "Leadership",
+      "Stakeholder Management",
+      "Agile"
+    ],
+    "preferred_skills": [
+      "Security Awareness",
+      "JIRA",
+      "Technical Writing",
+      "Risk Management"
+    ],
+    "skill_categories": {
+      "soft_skills": [
+        "Project Management",
+        "Communication",
+        "Leadership",
+        "Stakeholder Management",
+        "Agile"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 92,
+    "title": "Palo Alto SASE Engineer",
+    "company": "SecureEdge Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage Palo Alto SASE solutions including Prisma Access and GlobalProtect. Implement secure web gateway policies, CASB controls, and DLP for remote workforce protection.",
+    "required_skills": [
+      "Palo Alto Prisma Access",
+      "Palo Alto GlobalProtect",
+      "Zscaler",
+      "VPN",
+      "Zero Trust Networking"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Palo Alto Panorama",
+      "SD-WAN",
+      "Netskope"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Prisma Access",
+        "Palo Alto GlobalProtect",
+        "Zscaler",
+        "Netskope",
+        "Palo Alto NGFW",
+        "Palo Alto Panorama"
+      ],
+      "networking": [
+        "VPN",
+        "Zero Trust Networking",
+        "SD-WAN"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 93,
+    "title": "Junior Penetration Tester",
+    "company": "EthicalHack Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Assist in penetration testing engagements under senior guidance. Conduct vulnerability scanning, perform basic exploitation, and contribute to assessment reports. Prepare for OSCP certification.",
+    "required_skills": [
+      "Nmap",
+      "Kali Linux",
+      "Burp Suite",
+      "Linux",
+      "TCP/IP"
+    ],
+    "preferred_skills": [
+      "Metasploit",
+      "Python",
+      "Bash",
+      "Wireshark"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Nmap",
+        "Kali Linux",
+        "Burp Suite",
+        "Metasploit",
+        "Wireshark"
+      ],
+      "programming": [
+        "Python",
+        "Bash"
+      ]
+    },
+    "salary_range": {
+      "min": 66000,
+      "max": 104500,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 94,
+    "title": "Cloud DevOps Engineer",
+    "company": "HybridOps Solutions",
+    "industry": "cloud",
+    "experience_level": "mid",
+    "description": "Manage hybrid cloud infrastructure using Terraform and Ansible. Deploy applications across AWS and on-premises environments, implement GitOps workflows, and maintain CI/CD pipelines.",
+    "required_skills": [
+      "Terraform",
+      "Ansible",
+      "AWS",
+      "Docker",
+      "GitLab CI/CD"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "Python",
+      "ArgoCD",
+      "Prometheus"
+    ],
+    "skill_categories": {
+      "devops": [
+        "Terraform",
+        "Ansible",
+        "Docker",
+        "GitLab CI/CD",
+        "Kubernetes",
+        "ArgoCD",
+        "Prometheus"
+      ],
+      "cloud": [
+        "AWS"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 95,
+    "title": "Security Automation Engineer",
+    "company": "AutoDefend Technologies",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Develop automated security workflows and custom integrations between security tools. Build scripts for threat detection, incident enrichment, and response automation. Reduce manual SOC effort through tooling.",
+    "required_skills": [
+      "Python",
+      "REST APIs",
+      "Splunk",
+      "Docker",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Palo Alto Cortex XSOAR",
+      "Ansible",
+      "AWS Lambda",
+      "JavaScript"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Python",
+        "JavaScript"
+      ],
+      "security_tools": [
+        "Splunk",
+        "Palo Alto Cortex XSOAR"
+      ],
+      "devops": [
+        "Docker",
+        "Git",
+        "Ansible"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 96,
+    "title": "Data Scientist - Cybersecurity",
+    "company": "ThreatPredict AI",
+    "industry": "data_ai",
+    "experience_level": "mid",
+    "description": "Apply machine learning to cybersecurity challenges including anomaly detection, malware classification, and user behavior analytics. Build models using security telemetry data and deploy to production.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-learn",
+      "Pandas",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "PyTorch",
+      "Splunk",
+      "Elastic SIEM",
+      "Deep Learning",
+      "Apache Spark"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "Machine Learning",
+        "Scikit-learn",
+        "Pandas",
+        "PyTorch",
+        "Deep Learning",
+        "Apache Spark"
+      ],
+      "programming": [
+        "Python",
+        "SQL"
+      ]
+    },
+    "salary_range": {
+      "min": 114000,
+      "max": 168000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 97,
+    "title": "Full Stack Engineer - Security Platform",
+    "company": "SecureStack Inc.",
+    "industry": "software_engineering",
+    "experience_level": "mid",
+    "description": "Build security management dashboards and investigation tools. Develop React frontends backed by Python APIs that process and visualize security event data from multiple sources.",
+    "required_skills": [
+      "React",
+      "Python",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "preferred_skills": [
+      "FastAPI",
+      "Elasticsearch",
+      "Redis",
+      "AWS",
+      "GraphQL"
+    ],
+    "skill_categories": {
+      "frameworks": [
+        "React",
+        "FastAPI"
+      ],
+      "programming": [
+        "Python",
+        "TypeScript"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Elasticsearch",
+        "Redis"
+      ]
+    },
+    "salary_range": {
+      "min": 95000,
+      "max": 140000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 98,
+    "title": "Cloud Security Architect",
+    "company": "CloudShield Architects",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Design comprehensive cloud security architectures for enterprise environments. Define security guardrails, implement landing zones, and establish cloud governance frameworks across AWS, Azure, and GCP.",
+    "required_skills": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Terraform",
+      "Zero Trust Networking"
+    ],
+    "preferred_skills": [
+      "Palo Alto Prisma Cloud",
+      "AWS GuardDuty",
+      "Azure Sentinel",
+      "Kubernetes"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "AWS GuardDuty",
+        "Azure Sentinel"
+      ],
+      "security_tools": [
+        "Palo Alto Prisma Cloud"
+      ],
+      "devops": [
+        "Terraform",
+        "Kubernetes"
+      ]
+    },
+    "salary_range": {
+      "min": 154000,
+      "max": 220000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 99,
+    "title": "Reverse Engineer",
+    "company": "BinaryAnalysis Labs",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Reverse-engineer complex malware samples, firmware, and software binaries. Develop tooling for automated analysis, contribute to detection signatures, and support incident response with technical intelligence.",
+    "required_skills": [
+      "Assembly",
+      "C",
+      "Reverse Engineering",
+      "Python",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Ghidra",
+      "IDA Pro",
+      "YARA",
+      "Volatility",
+      "Rust"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Assembly",
+        "C",
+        "Python",
+        "Rust"
+      ],
+      "security_tools": [
+        "YARA",
+        "Volatility"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 100,
+    "title": "Junior Cloud Security Analyst",
+    "company": "CloudWatch Security",
+    "industry": "cybersecurity",
+    "experience_level": "entry",
+    "description": "Monitor cloud environments for security misconfigurations and threats. Review AWS CloudTrail logs, investigate GuardDuty findings, and help maintain cloud security baselines.",
+    "required_skills": [
+      "AWS",
+      "Cloud Security",
+      "Linux",
+      "TCP/IP",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "AWS GuardDuty",
+      "AWS Security Hub",
+      "Python",
+      "Terraform"
+    ],
+    "skill_categories": {
+      "cloud": [
+        "AWS",
+        "AWS GuardDuty",
+        "AWS Security Hub"
+      ],
+      "operating_systems": [
+        "Linux"
+      ],
+      "networking": [
+        "TCP/IP"
+      ]
+    },
+    "salary_range": {
+      "min": 64200,
+      "max": 101650,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 101,
+    "title": "Security Consultant",
+    "company": "CyberAdvisory Group",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Provide expert cybersecurity consulting services to enterprise clients. Conduct security assessments, develop security strategies, and advise on regulatory compliance. Build and maintain client relationships.",
+    "required_skills": [
+      "Risk Management",
+      "Compliance",
+      "Network Security",
+      "Communication",
+      "Presentation Skills"
+    ],
+    "preferred_skills": [
+      "Nessus",
+      "Qualys",
+      "Palo Alto NGFW",
+      "AWS",
+      "NIST Framework"
+    ],
+    "skill_categories": {
+      "soft_skills": [
+        "Risk Management",
+        "Compliance",
+        "Communication",
+        "Presentation Skills"
+      ],
+      "security_tools": [
+        "Nessus",
+        "Qualys",
+        "Palo Alto NGFW"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 102,
+    "title": "Security Onion Analyst",
+    "company": "NSM Solutions Inc.",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage Security Onion for network security monitoring. Analyze Zeek logs, Suricata alerts, and full packet captures. Hunt for threats using network-based indicators and behavioral analysis.",
+    "required_skills": [
+      "Security Onion",
+      "Zeek",
+      "Suricata",
+      "Wireshark",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Elastic SIEM",
+      "Python",
+      "TCPDump",
+      "YARA"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Security Onion",
+        "Zeek",
+        "Suricata",
+        "Wireshark",
+        "Elastic SIEM",
+        "TCPDump",
+        "YARA"
+      ],
+      "operating_systems": [
+        "Linux"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 103,
+    "title": "Healthcare Security Engineer",
+    "company": "MedSec Technologies",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Protect healthcare IT infrastructure and ensure HIPAA compliance. Manage security controls for EHR systems, medical devices, and clinical networks. Conduct security risk assessments and remediation.",
+    "required_skills": [
+      "Compliance",
+      "Network Security",
+      "Risk Management",
+      "Firewall Management",
+      "Incident Response"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Nessus",
+      "CrowdStrike Falcon",
+      "Splunk"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto NGFW",
+        "Nessus",
+        "CrowdStrike Falcon",
+        "Splunk"
+      ],
+      "soft_skills": [
+        "Compliance",
+        "Risk Management",
+        "Incident Response"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 104,
+    "title": "Financial Security Analyst",
+    "company": "FinSec Partners",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Protect financial services infrastructure from cyber threats. Ensure PCI DSS compliance, monitor transaction systems for fraud indicators, and manage security for banking applications.",
+    "required_skills": [
+      "Compliance",
+      "SIEM",
+      "Network Security",
+      "Incident Response",
+      "Risk Management"
+    ],
+    "preferred_skills": [
+      "Splunk",
+      "IBM QRadar",
+      "Palo Alto NGFW",
+      "DLP Tools"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Splunk",
+        "IBM QRadar",
+        "Palo Alto NGFW",
+        "DLP Tools"
+      ],
+      "soft_skills": [
+        "Compliance",
+        "Risk Management",
+        "Incident Response"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 105,
+    "title": "Deep Learning Engineer",
+    "company": "NeuralForge AI",
+    "industry": "data_ai",
+    "experience_level": "senior",
+    "description": "Design and train deep neural network architectures for production systems. Optimize training pipelines, implement distributed training, and develop model compression techniques for edge deployment.",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Neural Networks",
+      "CUDA"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "C++"
+    ],
+    "skill_categories": {
+      "data_science": [
+        "PyTorch",
+        "Deep Learning",
+        "Neural Networks",
+        "TensorFlow"
+      ],
+      "programming": [
+        "Python",
+        "C++"
+      ]
+    },
+    "salary_range": {
+      "min": 168000,
+      "max": 240000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 106,
+    "title": "Principal Software Engineer",
+    "company": "CoreTech Systems",
+    "industry": "software_engineering",
+    "experience_level": "senior",
+    "description": "Drive technical strategy across multiple engineering teams. Solve the hardest technical challenges, establish engineering standards, and represent the engineering organization in strategic planning.",
+    "required_skills": [
+      "Java",
+      "Go",
+      "System Design",
+      "Kubernetes",
+      "AWS"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Apache Kafka",
+      "PostgreSQL",
+      "Leadership",
+      "Mentoring"
+    ],
+    "skill_categories": {
+      "programming": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "devops": [
+        "Kubernetes"
+      ],
+      "cloud": [
+        "AWS"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Mentoring"
+      ]
+    },
+    "salary_range": {
+      "min": 140000,
+      "max": 200000,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 107,
+    "title": "Junior Data Engineer",
+    "company": "DataPipeline Startups",
+    "industry": "data_ai",
+    "experience_level": "entry",
+    "description": "Support data pipeline development and maintenance. Write SQL queries, assist with ETL processes, and learn modern data stack tools under mentorship from senior data engineers.",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "Git",
+      "Linux",
+      "Communication"
+    ],
+    "preferred_skills": [
+      "Apache Airflow",
+      "dbt",
+      "Snowflake",
+      "Pandas"
+    ],
+    "skill_categories": {
+      "programming": [
+        "SQL",
+        "Python"
+      ],
+      "data_science": [
+        "Apache Airflow",
+        "ETL",
+        "Pandas"
+      ],
+      "databases": [
+        "Snowflake"
+      ]
+    },
+    "salary_range": {
+      "min": 69000,
+      "max": 109249,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 108,
+    "title": "Palo Alto Cortex Engineer",
+    "company": "Palo Alto Networks",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Deploy and manage the full Palo Alto Cortex suite including XDR, XSOAR, and XSIAM. Integrate Cortex products with existing security infrastructure and develop custom automations and detection rules.",
+    "required_skills": [
+      "Palo Alto Cortex XDR",
+      "Palo Alto Cortex XSOAR",
+      "Python",
+      "Incident Response",
+      "SIEM"
+    ],
+    "preferred_skills": [
+      "Palo Alto Cortex XSIAM",
+      "Palo Alto NGFW",
+      "REST APIs",
+      "Docker"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "Palo Alto Cortex XDR",
+        "Palo Alto Cortex XSOAR",
+        "Palo Alto Cortex XSIAM",
+        "Palo Alto NGFW"
+      ],
+      "programming": [
+        "Python"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 109,
+    "title": "DLP Engineer",
+    "company": "DataGuard Solutions",
+    "industry": "cybersecurity",
+    "experience_level": "mid",
+    "description": "Implement and manage data loss prevention solutions across endpoint, network, and cloud channels. Define DLP policies, investigate data exfiltration alerts, and ensure sensitive data protection.",
+    "required_skills": [
+      "DLP Tools",
+      "Network Security",
+      "Compliance",
+      "Windows",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Palo Alto NGFW",
+      "Zscaler",
+      "Netskope",
+      "Python"
+    ],
+    "skill_categories": {
+      "security_tools": [
+        "DLP Tools",
+        "Palo Alto NGFW",
+        "Zscaler",
+        "Netskope"
+      ],
+      "soft_skills": [
+        "Compliance"
+      ]
+    },
+    "salary_range": {
+      "min": 101650,
+      "max": 149800,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 110,
+    "title": "CISO Advisory Consultant",
+    "company": "ExecutiveSec Partners",
+    "industry": "cybersecurity",
+    "experience_level": "senior",
+    "description": "Provide virtual CISO services to mid-market organizations. Develop security programs, create board-level reporting, manage security budgets, and align cybersecurity initiatives with business objectives.",
+    "required_skills": [
+      "Leadership",
+      "Risk Management",
+      "Compliance",
+      "Communication",
+      "Business Continuity"
+    ],
+    "preferred_skills": [
+      "NIST Framework",
+      "ISO 27001",
+      "Vendor Management",
+      "Stakeholder Management",
+      "Change Management"
+    ],
+    "skill_categories": {
+      "soft_skills": [
+        "Leadership",
+        "Risk Management",
+        "Compliance",
+        "Communication",
+        "Business Continuity",
+        "Vendor Management",
+        "Stakeholder Management"
+      ]
+    },
+    "salary_range": {
+      "min": 149800,
+      "max": 214000,
+      "currency": "USD"
+    }
+  }
+]
