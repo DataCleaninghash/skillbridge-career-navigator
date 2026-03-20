@@ -1,7 +1,5 @@
 # SkillBridge v2
 
-> **Demo:** [https://youtu.be/ltAo5QsY6AM](https://youtu.be/ltAo5QsY6AM)
-
 Career intelligence platform. Upload your resume, identify skill gaps against target roles, get a personalized learning path.
 
 ---
