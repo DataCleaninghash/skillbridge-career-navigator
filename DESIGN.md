@@ -1,4 +1,4 @@
-# Design — SkillBridge v2
+# Design — SkillBridge
 
 ## System
 

@@ -1,96 +1,139 @@
-# SkillBridge v2
+# SkillBridge — Career Navigator
 
-Career intelligence platform. Upload your resume, identify skill gaps against target roles, get a personalized learning path.
-
----
-
-**Candidate:** Shyamal Narang
-**Scenario:** Skill-Bridge Career Navigator
-**Time Spent:** ~5.5 hours
+An intelligent career gap analysis tool that parses resumes, maps skills against job requirements, and builds actionable learning paths. Focused on cybersecurity and tech roles with Palo Alto Networks coverage.
 
 ---
 
-## Setup
+| | |
+|---|---|
+| **Candidate** | Shweta Patel |
+| **Scenario** | Skill-Bridge Career Navigator |
+| **Time Spent** | ~5 hours |
+
+---
+
+## Getting Started
+
+**Prerequisites:** Python 3.10+, Node.js 18+
 
 ```bash
-# Backend
-cd backend && pip install -r requirements.txt
-cp ../.env.example ../.env  # add OpenAI key (optional)
-uvicorn main:app --reload    # localhost:8000
+# 1. Backend
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload          # → http://localhost:8000
 
-# Frontend
-cd frontend && npm install && npm run dev  # localhost:5173
+# 2. Frontend (new terminal)
+cd frontend
+npm install && npm run dev         # → http://localhost:5173
 
-# Tests
-cd backend && pytest tests/ -v    # 20 tests
-cd frontend && npx vitest run     # 9 tests
+# 3. (Optional) Add OpenAI key for AI features
+cp .env.example .env               # then add your key
 ```
 
-**Requirements:** Python 3.10+, Node 18+. Works without OpenAI key (rule-based fallback).
+> The app works fully without an OpenAI key using rule-based fallback.
 
 ---
 
-## Stack
+## Technology Choices
 
-| | Technology |
-|---|---|
-| **Frontend** | React 18, TypeScript, Vite, Tailwind CSS |
-| **Backend** | Python, FastAPI, SQLite, Pydantic |
-| **AI** | OpenAI GPT-4o-mini with rule-based fallback |
-| **Tests** | pytest + Vitest (29 total) |
-
----
-
-## What It Does
-
-- **Resume Parsing** — Paste text or upload PDF. AI extracts 25-30+ skills.
-- **Role Matching** — 118 roles (40% cybersecurity, incl. Palo Alto certs). Auto-recommends best fits with salary ranges.
-- **Gap Analysis** — Match %, category breakdown, matched/missing skills, AI narrative.
-- **Skill Trends** — HOT / IN DEMAND / RISING badges based on market frequency.
-- **Learning Roadmap** — Phased plan (week/month/quarter) with real courses. Interactive progress tracking.
-- **Role Comparison** — Side-by-side analysis of two roles.
-- **PDF Export** — One-click report generation.
-
----
-
-## API
-
-| Endpoint | Method | Purpose |
+| Layer | Choice | Rationale |
 |---|---|---|
-| `/api/profiles` | POST | Create profile |
-| `/api/profiles/:id` | GET/PUT | Read/update profile |
-| `/api/extract-skills` | POST | Extract skills from text |
-| `/api/extract-skills-pdf` | POST | Extract skills from PDF |
-| `/api/profiles/:id/analysis` | GET | Gap analysis |
-| `/api/profiles/:id/roadmap` | GET | Learning roadmap |
-| `/api/profiles/:id/recommendations` | GET | Role recommendations |
-| `/api/profiles/:id/progress` | GET/POST | Progress tracking |
-| `/api/roles` | GET | Search/filter roles |
-| `/api/roles/compare` | GET | Compare two roles |
-| `/api/skill-trends` | GET | Skill demand data |
-| `/api/health` | GET | Health check |
+| UI | React 18 + TypeScript + Tailwind | Type-safe components, utility styling, fast iteration |
+| Server | FastAPI + Pydantic | Async AI calls, auto-validation, generated docs |
+| Storage | SQLite (WAL mode) | Zero-config, portable, parameterized queries |
+| Intelligence | GPT-4o-mini + fallback | Cost-efficient structured extraction, graceful degradation |
+| Quality | pytest + Vitest | 29 tests across unit, integration, and component layers |
 
 ---
 
-## Data (Synthetic)
+## Capabilities
 
-- `jobs.json` — 118 roles with salary ranges
-- `courses.json` — 60 learning resources
-- `skill_dictionary.json` — 534 skills, 10 categories
-- `sample_resumes.json` — 5 sample profiles
+**Resume Intelligence**
+- Text paste or PDF upload with automatic skill extraction (25-30+ skills per resume)
+- AI-powered with dictionary-based regex fallback (534 skills, 10 categories)
+
+**Career Matching**
+- 118 curated roles (40% cybersecurity incl. Palo Alto PCNSA/PCNSE)
+- Auto-ranked recommendations with salary estimates
+- Side-by-side role comparison with skill overlap visualization
+
+**Gap Analysis**
+- Match scoring with per-category breakdown
+- Market demand badges (HOT / IN DEMAND / RISING) computed across all postings
+- Personalized AI narrative explaining strengths and focus areas
+
+**Learning Path**
+- Three-phase roadmap (This Week / This Month / Next Quarter)
+- Mapped to 60 real courses and certifications
+- Interactive progress tracking persisted in database
+
+**Export** — One-click PDF report generation
 
 ---
 
-## AI Disclosure
+## Endpoints
 
-Used **Claude Code** (Anthropic) for development assistance. All code reviewed, tested (29 passing), and manually verified. Example of rejected suggestion: radar chart replaced with progress bars after poor rendering with few data points.
+```
+POST   /api/profiles                    Create profile
+GET    /api/profiles/:id                Read profile
+PUT    /api/profiles/:id                Update profile
+POST   /api/extract-skills              Skills from text
+POST   /api/extract-skills-pdf          Skills from PDF
+GET    /api/profiles/:id/analysis       Gap analysis
+GET    /api/profiles/:id/roadmap        Learning roadmap
+GET    /api/profiles/:id/recommendations Role suggestions
+GET    /api/profiles/:id/progress       Read progress
+POST   /api/profiles/:id/progress       Update progress
+GET    /api/roles                       Browse/filter roles
+GET    /api/roles/compare               Compare two roles
+GET    /api/skill-trends                Market demand data
+GET    /api/health                      Health check
+```
 
 ---
 
-## Tradeoffs
+## Synthetic Data
 
-**Chose:** SQLite (zero-setup) over PostgreSQL. Static JSON for reference data over database tables. GPT-4o-mini (10x cheaper) over GPT-4o. Strategy pattern (always works) over AI-only (breaks without key).
+| File | Contents |
+|---|---|
+| `jobs.json` | 118 roles with salary ranges |
+| `courses.json` | 60 courses and certifications |
+| `skill_dictionary.json` | 534 skills across 10 categories |
+| `sample_resumes.json` | 5 profiles at varying levels |
 
-**Would add next:** OAuth, live job board APIs, team skill matrices, notification system.
+No real personal data is used anywhere in this project.
 
-**Limitations:** SQLite single-user, PDF extraction limited to text-based PDFs, trends from synthetic data, progress resets on DB recreate.
+---
+
+## Testing
+
+```bash
+cd backend && python -m pytest tests/ -v    # 20 tests
+cd frontend && npx vitest run               # 9 tests
+```
+
+Covers: skill extraction (happy + edge), gap analysis computation, API CRUD, input validation, component rendering, form behavior.
+
+---
+
+## AI Usage Disclosure
+
+- **Tool used:** Claude Code (Anthropic) for development assistance
+- **Verification:** All output reviewed, tested (29 passing), and manually verified through the running application
+- **Rejected suggestion:** Initially generated a radar/spider chart for skill categories — replaced with horizontal progress bars after it rendered poorly with fewer than 4 data points
+
+---
+
+## Design Trade-offs
+
+| Decision | Why |
+|---|---|
+| Strategy pattern for AI | Every AI call has a rule-based fallback — app never breaks without API key |
+| SQLite over Postgres | Zero-setup for evaluation; parameterized queries make migration trivial |
+| Static JSON for jobs/courses | Read-only reference data doesn't belong in a database |
+| GPT-4o-mini over GPT-4o | Structured extraction tasks don't need expensive reasoning models |
+| React+Vite over Next.js | No SSR/SEO needed — simpler toolchain, smaller bundle |
+
+**If I had more time:** OAuth authentication, live job board APIs, team skill dashboards, email notifications for new matching roles.
+
+**Known limits:** SQLite doesn't scale for concurrent users, PDF extraction fails on scanned/image PDFs, trend data is from synthetic dataset.
